@@ -12,7 +12,8 @@ const Approach = () => {
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card
           title="Planning & Strategy"
-          icon={<AceternityIcon order="Phase 1" />} description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
+          icon={<AceternityIcon order="Phase 1" />}
+          description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -33,7 +34,6 @@ const Approach = () => {
             ]}
             dotSize={2}
           />
-          
         </Card>
         <Card
           title="Development & Launch"
@@ -55,7 +55,7 @@ const Card = ({
   title,
   icon,
   children,
-  description
+  description,
 }: {
   title: string;
   icon: React.ReactNode;
