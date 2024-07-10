@@ -23,7 +23,7 @@ const Approach = () => {
         <Card
           title="Development & Progress Update"
           icon={<AceternityIcon order="Phase 2" />}
-          description="Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to clean code and documentation, I keep you updated every step of the way."
+          description="Once the design is finalized, I get to work on development and dive into coding. From initial sketches to clean code and documentation, I keep you updated every step of the way."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -38,7 +38,7 @@ const Approach = () => {
         <Card
           title="Deployment & Monitoring"
           icon={<AceternityIcon order="Phase 3" />}
-          description="Once all functionalities have been tested, I will deploy them to suitable environments, and enable monitoring and tracing to detect any customer issues and fix them at the earliest, keeping all stakeholders informed."
+          description="Once all functionalities have been tested, I deploy them to suitable environments, and enable monitoring and tracing to detect any customer issues and fix them at the earliest, keeping all stakeholders informed."
         >
           <CanvasRevealEffect
             animationSpeed={3}
