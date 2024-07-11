@@ -116,33 +116,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Sourya was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "John Doe",
-    title: "Director of XYZ",
+      "Sourya is a diligent and adaptable individual with a remarkable ability to grasp and apply complex concepts. His extensive tech stack proficiency and proactive approach to understanding systems from the ground up make him an invaluable asset to any team.",
+    name: "Anusha Sridharan",
+    title: "Lead - Software Engineering, Fidelity Investments",
   },
   {
     quote:
-      "Collaborating with Sourya was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "John Doe",
-    title: "Director of XYZ",
+      "Sourya is a dedicated and passionate engineer. He is my go-to person for all questions regarding my personal projects due to his extensive knowledge of various technologies and frameworks. His expertise in Java is particularly remarkable.",
+    name: "Trishul S. Gowda",
+    title: "Principal - Software Engineering, Fidelity Investments",
   },
   {
     quote:
-      "Collaborating with Sourya was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "John Doe",
-    title: "Director of XYZ",
+      "Sourya would be a fantastic addition to any team. His exceptional work ethic, dedication and positive attitude can be of value to other team members. His contribution can highly likely lead to positive results.",
+    name: "Vijay Chandra",
+    title: "Principal - Software Engineering, Fidelity Investments",
   },
   {
     quote:
-      "Collaborating with Sourya was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "John Doe",
-    title: "Director of XYZ",
+      "I have known Sourya since our days at school. He has always been a hard-working, detail-oriented person. Having him in a team ensures that the stakeholders benefit from his meticulous work ethics, and eagerness to get better at his skillset every day. I would recommend him for any scale of operations involved.",
+    name: "Ajay Baliga",
+    title: "Founding Team, PrivateCircle",
   },
   {
     quote:
-      "Collaborating with Sourya was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "John Doe",
-    title: "Director of XYZ",
+      "I've known Sourya since our time in the LEAP program, and I've consistently been impressed by his engineering expertise and genuine enthusiasm for building great products. He's always the first to engage in technical discussions and is eager to assist others with challenging tasks. Our frequent engineering conversations during breaks reveal his deep and insightful understanding of problems. Any team would gain immensely from having a member like him.",
+    name: "Shikhar Trivedi",
+    title: "Lead - Software Engineering, Fidelity Investments",
   },
 ];
 
