@@ -140,7 +140,7 @@ export const testimonials = [
   },
   {
     quote:
-      "I've known Sourya since our time in the LEAP program, and I've consistently been impressed by his engineering expertise and genuine enthusiasm for building great products. He's always the first to engage in technical discussions and is eager to assist others with challenging tasks. Our frequent engineering conversations during breaks reveal his deep and insightful understanding of problems. Any team would gain immensely from having a member like him.",
+      "I've known Sourya since the LEAP program and have been consistently impressed by his engineering expertise and enthusiasm for building great products. He actively engages in technical discussions and assists with challenging tasks. His insights during our breaks reveal a deep understanding of problems. Any team would benefit greatly from having him.",
     name: "Shikhar Trivedi",
     title: "Lead - Software Engineering, Fidelity Investments",
   },
